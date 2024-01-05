@@ -155,8 +155,9 @@ p{
     text-align: justify;
 }
 main > article > p > a{
-    text-align: right;
     display: block;
+    text-align: right;
+    
 }
 aside{
     background-color: rgb(252, 252, 193);
